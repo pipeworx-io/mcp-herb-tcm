@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-herb-tcm",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "HERB 2.0 (herb.ac.cn) — Traditional Chinese Medicine herb/ingredient/target/",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1b79bab5566a038543be601f4c9e80c1ac61f4504d1de0a32b9011773f575e46",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-3daa85e587110ea55a32bf26d712cec1f89612d1adb9ecdc653555b4d16af318",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
