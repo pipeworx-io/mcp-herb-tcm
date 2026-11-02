@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-herb-tcm",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "HERB 2.0 (herb.ac.cn) — Traditional Chinese Medicine herb/ingredient/target/ disease knowledge base, proxied live per request.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "herb-tcm",
     "gatewaySlug": "herb-tcm",
-    "sourceHash": "v1-209c2d643f4ad8b6cafb6dd05f950f2e715e54c043b73a501bd6f6a290a07f90",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-2a24840d1253b57063692ae4936de98caad77a5085cfea5a84a6e3e7cdb63ebd",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
